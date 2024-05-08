@@ -29,10 +29,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 
-
-
 # Program :
-
 ```
 import numpy as np
 import math
@@ -71,12 +68,8 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
  ```
  
-
-
 # Output : 
 ![image](https://github.com/Nalini23009745/Poisson_distribution/assets/149347484/d859dda6-dc5d-48e5-be00-3490d4e70ea7)
-
-
 
 # Results
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
