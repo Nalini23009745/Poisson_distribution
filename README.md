@@ -72,8 +72,8 @@ else:
  ```
  
 
-# Output : 
 
+# Output : 
 ![image](https://github.com/Nalini23009745/Poisson_distribution/assets/149347484/d859dda6-dc5d-48e5-be00-3490d4e70ea7)
 
 
